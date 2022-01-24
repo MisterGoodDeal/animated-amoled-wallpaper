@@ -14,7 +14,7 @@ I've exported this wallpaper in **white color** for 2 phones brands, Apple and S
 
 📚 You can find a full list of devices per brands with download links in the [Wiki page](https://github.com/MisterGoodDeal/animated-amoled-wallpaper/wiki). 
 
-If you can't see your device and you don't have Adobe After Effect, you can request it by opening an [issue](https://github.com/MisterGoodDeal/animated-amoled-wallpaper/issues) 🙃
+If you can't see your device and you don't have Adobe After Effect, you can request it by opening an [issue](https://github.com/MisterGoodDeal/animated-amoled-wallpaper/issues/new?assignees=MisterGoodDeal&labels=new+wallpaper+request&template=new-wallpaper-request.md&title=New+wallpaper+request) 🙃
 
 ## 📝 Edit and export your own wallpaper
 
