@@ -1,3 +1,8 @@
+
+<img src="https://raw.githubusercontent.com/MisterGoodDeal/animated-amoled-wallpaper/main/Fond%20ecran%20anime_AME/banner-min.gif" alt="La Consigne GreenGo" width="100%">
+
+
+
 # Animated Amoled Wallpaper
 This is an Adobe After Effects project in which your can find an animated amoled wallpaper for various types of phones
 
