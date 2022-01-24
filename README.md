@@ -43,4 +43,4 @@ If you want to contribute to this project and your know how to use Git, please f
 5. Export it in the folder `Fond ecran anime_AME` in the root directory following the export settings above and make your you're not overwritting any files.
 6. Then commit on your branch and do a [Pull request](https://github.com/MisterGoodDeal/animated-amoled-wallpaper/pulls) following the template.
 
-**⚠️ If any of theses steps aren't followed correctly, your contribution will'nt be added**
+**⚠️ If any of theses steps aren't followed correctly, your contribution willn't be added**
